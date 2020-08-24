@@ -1,0 +1,5 @@
+.bg-image {
+    height: calc(100vh - 60px) !important;
+    border: 5px solid;
+    background-image: url("https://via.placeholder.com/1500x660");
+}
