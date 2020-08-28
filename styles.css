@@ -1,5 +1,29 @@
+
+header,
+#social-media,
+.bg {
+    background-color: #17baef;
+}
+
+.header {
+    color: #317896
+}
+
 .bg-image {
     height: calc(100vh - 60px) !important;
-    border: 5px solid;
-    background-image: url("https://via.placeholder.com/1500x660");
+    background-image: url("https://wallpaperset.com/w/full/7/c/a/524843.jpg");
+    background-position: center;
+}
+
+.social-icon {
+    font-size: 14px;
+}
+
+.image-box {
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.leader-box {
+    max-height: 415px;
 }
