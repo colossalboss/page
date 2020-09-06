@@ -1,8 +1,6 @@
 
-header,
-#social-media,
-.bg {
-    background-color: #17baef;
+#social-media {
+    background-color: #eee;
 }
 
 .header {
@@ -22,10 +20,14 @@ header,
     font-size: 14px;
 }
 
-/* .set-height {
-    min-height: 300px;
+.image-box img {
     max-height: 300px;
-} */
+}
+
+.image-box img {
+    width: 100%;
+    height: 100%;
+}
 
 .leader-box {
     max-height: 415px;
