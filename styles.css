@@ -11,7 +11,10 @@ header,
 
 .bg-image {
     height: calc(100vh - 60px) !important;
-    background-image: url("https://wallpaperset.com/w/full/7/c/a/524843.jpg");
+    background-color: #000;
+    background-image: url("https://scontent-los2-1.xx.fbcdn.net/v/t1.0-9/109673580_310674993674284_5394036899780468622_n.jpg?_nc_cat=102&_nc_sid=730e14&_nc_eui2=AeEbiU9IUw1d2Xqs4EXRfFwXXtWuKZuAcOpe1a4pm4Bw6mc2C40LM4WdIBovShGUJQfT8uQbuCvqTsKw13-wElfC&_nc_ohc=G9NhqGoHII0AX9Jmtvr&_nc_oc=AQl8z6wb-uAU5-FjqBk8b4zdixjyfJbXAwUxR8oP5HPOWB3r2o7BPif9tZ2d5KVO5DI&_nc_ht=scontent-los2-1.xx&oh=de7248a460d8bcdcb9235ecd2a06a779&oe=5F7C8E8D");
+    /* background-image: url("https://wallpaperset.com/w/full/7/c/a/524843.jpg"); */
+    background-repeat: no-repeat;
     background-position: center;
 }
 
